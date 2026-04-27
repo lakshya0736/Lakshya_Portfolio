@@ -17,7 +17,7 @@ const Projects = () => {
           <h4>Tech Stack:</h4>
           <p>Deep Learning, FaceNet, CNN, Python</p>
           <div className="project-links">
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/lakshya0736/Smart-Face-Emotion-Based-Attendance" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
             <a href="#" target="_blank" rel="noopener noreferrer">
