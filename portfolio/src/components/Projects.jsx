@@ -20,9 +20,6 @@ const Projects = () => {
             <a href="https://github.com/lakshya0736/Smart-Face-Emotion-Based-Attendance" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              Live Demo
-            </a>
           </div>
         </div>
 
