@@ -31,6 +31,9 @@
 // };
 
 // export default Hero;
+
+
+
 ```jsx
 import React, { useEffect, useRef, useState } from "react";
 import {

@@ -1,16 +1,76 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built to showcase my background, projects, skills, and professional journey as a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. The site highlights my work in full-stack web development, software development, and project-based learning.[web:55][web:58]
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio serves as a central place to present my profile, technical skills, selected projects, internship experience, achievements, and contact information in a clean and accessible format.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive portfolio website
+- About section with academic background
+- Skills section covering programming, web technologies, and tools
+- Projects section with GitHub links
+- Experience and highlights section
+- Contact section with portfolio, email, LinkedIn, and GitHub links
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+## Sections
+
+### Home
+Introduces who I am and gives a quick summary of my interests and focus areas.[web:55]
+
+### About
+Provides my academic background, specialization, and career interests.
+
+### Skills
+Highlights technical skills, tools, and core areas I am working in.
+
+### Projects
+Showcases selected projects, including:
+- Smart Face Emotion-Based Attendance System
+- AI-Powered Healthcare Web App
+
+### Experience & Highlights
+Includes my internship experience and participation in Smart India Hackathon 2025.
+
+### Contact
+Provides ways to connect with me through email, LinkedIn, GitHub, and portfolio links.[web:55]
+
+## Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/your-username/your-portfolio-repo.git
+cd your-portfolio-repo
+npm install
+npm run dev
+```
+
+If the project is not using React/Vite and is based on plain HTML/CSS/JS, simply open the `index.html` file in your browser or use a live server extension.[web:52]
+
+## Deployment
+
+This portfolio is deployed on Vercel for live access and easy updates through GitHub integration.[web:57]
+
+## Contact
+
+- Email: lakshyasrivastav14@gmail.com
+- LinkedIn: https://in.linkedin.com/in/lakshya-srivastav-24169b314
+- Portfolio: https://lakshya0736.github.io/My_Portfolio/
+
+## Author
+
+Lakshya Srivastav
+
+## License
+
+This project is open for learning and personal reference.
